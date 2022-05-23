@@ -2,32 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-05-19T18:12:37.085050Z",
+      "created": "2022-05-23T16:05:06.713621Z",
       "format": null,
-      "last_modified": "2022-05-19T18:12:04.486569Z",
+      "last_modified": "2022-05-23T16:04:16.672955Z",
       "mimetype": null,
       "name": "visualizing_heart_failure.ipynb",
       "path": "MODULE-1_WEEK-1/visualizing_heart_failure.ipynb",
-      "size": 391,
+      "size": 5365,
       "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-05-19T18:12:37.081050Z",
-      "format": null,
-      "last_modified": "2022-05-19T18:12:37.081050Z",
-      "mimetype": null,
-      "name": "data",
-      "path": "MODULE-1_WEEK-1/data",
-      "size": null,
-      "type": "directory",
       "writable": true
     }
   ],
-  "created": "2022-05-19T18:12:37.085050Z",
+  "created": "2022-05-23T16:05:06.713621Z",
   "format": "json",
-  "last_modified": "2022-05-19T18:12:37.085050Z",
+  "last_modified": "2022-05-23T16:05:06.713621Z",
   "mimetype": null,
   "name": "MODULE-1_WEEK-1",
   "path": "MODULE-1_WEEK-1",
