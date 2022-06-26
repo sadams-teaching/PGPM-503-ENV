@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-26T15:54:46.001097Z",
+      "created": "2022-06-26T18:21:30.926513Z",
       "format": null,
-      "last_modified": "2022-06-26T15:54:46.001097Z",
+      "last_modified": "2022-06-26T18:21:30.926513Z",
+      "mimetype": null,
+      "name": "MODULE-2_WEEK-6",
+      "path": "MODULE-2_WEEK-6",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-26T18:21:30.926513Z",
+      "format": null,
+      "last_modified": "2022-06-26T18:21:30.926513Z",
       "mimetype": null,
       "name": "MODULE-1_WEEK-3",
       "path": "MODULE-1_WEEK-3",
@@ -14,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-26T15:54:45.997097Z",
+      "created": "2022-06-26T18:21:30.926513Z",
       "format": null,
-      "last_modified": "2022-06-26T15:54:45.997097Z",
+      "last_modified": "2022-06-26T18:21:30.926513Z",
       "mimetype": null,
       "name": "MODULE-1_WEEK-2",
       "path": "MODULE-1_WEEK-2",
@@ -26,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-26T15:54:45.997097Z",
+      "created": "2022-06-26T18:21:30.926513Z",
       "format": null,
-      "last_modified": "2022-06-26T15:54:45.997097Z",
+      "last_modified": "2022-06-26T18:21:30.926513Z",
       "mimetype": null,
       "name": "MODULE-1_WEEK-1",
       "path": "MODULE-1_WEEK-1",
@@ -38,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-26T15:54:46.001097Z",
+      "created": "2022-06-26T18:21:30.930513Z",
       "format": null,
-      "last_modified": "2022-06-26T15:54:44.021077Z",
+      "last_modified": "2022-06-26T18:21:29.366526Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -49,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-26T15:54:46.001097Z",
+  "created": "2022-06-26T18:21:30.930513Z",
   "format": "json",
-  "last_modified": "2022-06-26T15:54:46.001097Z",
+  "last_modified": "2022-06-26T18:21:30.930513Z",
   "mimetype": null,
   "name": "",
   "path": "",
