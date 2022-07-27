@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-27T17:24:36.316063Z",
+      "format": null,
+      "last_modified": "2022-07-27T17:23:46.632358Z",
+      "mimetype": null,
+      "name": "group_2.ipynb",
+      "path": "PROJECTS/GROUP_2/group_2.ipynb",
+      "size": 5388,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-27T17:24:36.316063Z",
+  "format": "json",
+  "last_modified": "2022-07-27T17:24:36.316063Z",
+  "mimetype": null,
+  "name": "GROUP_2",
+  "path": "PROJECTS/GROUP_2",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
