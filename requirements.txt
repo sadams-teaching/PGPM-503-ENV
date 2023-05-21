@@ -9,3 +9,4 @@ jupyterlite
 plotly
 theme-darcula
 biopython
+matplotlib
