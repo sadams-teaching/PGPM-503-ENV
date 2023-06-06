@@ -6,9 +6,9 @@
       "format": null,
       "last_modified": "2023-06-06T11:56:49.928629Z",
       "mimetype": null,
-      "name": "visualizing_heart_failure.ipynb",
-      "path": "MODULE-1_WEEK-1/visualizing_heart_failure.ipynb",
-      "size": 6657,
+      "name": "data_wrangling.ipynb",
+      "path": "MODULE-1_WEEK-3/data_wrangling.ipynb",
+      "size": 9675,
       "type": "notebook",
       "writable": true
     }
@@ -17,8 +17,8 @@
   "format": "json",
   "last_modified": "2023-06-06T11:57:35.133257Z",
   "mimetype": null,
-  "name": "MODULE-1_WEEK-1",
-  "path": "MODULE-1_WEEK-1",
+  "name": "MODULE-1_WEEK-3",
+  "path": "MODULE-1_WEEK-3",
   "size": null,
   "type": "directory",
   "writable": true

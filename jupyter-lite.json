@@ -46,7 +46,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.a397b41514ddde5db0df.js",
+        "load": "static/remoteEntry.1479e7375eead669c0d0.js",
         "name": "jupyter-leaflet"
       },
       {
