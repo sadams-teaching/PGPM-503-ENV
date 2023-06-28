@@ -6,9 +6,9 @@
       "format": null,
       "last_modified": "2023-06-28T10:41:53.730386Z",
       "mimetype": null,
-      "name": "data_wrangling.ipynb",
-      "path": "MODULE-1_WEEK-3/data_wrangling.ipynb",
-      "size": 9675,
+      "name": "multiple_alignment.ipynb",
+      "path": "MODULE-2_WEEK-6/multiple_alignment.ipynb",
+      "size": 7600,
       "type": "notebook",
       "writable": true
     }
@@ -17,8 +17,8 @@
   "format": "json",
   "last_modified": "2023-06-28T10:42:43.579367Z",
   "mimetype": null,
-  "name": "MODULE-1_WEEK-3",
-  "path": "MODULE-1_WEEK-3",
+  "name": "MODULE-2_WEEK-6",
+  "path": "MODULE-2_WEEK-6",
   "size": null,
   "type": "directory",
   "writable": true
