@@ -8,9 +8,9 @@
       "hash_algorithm": null,
       "last_modified": "2024-06-04T23:55:55.616567Z",
       "mimetype": null,
-      "name": "visualizing_heart_failure.ipynb",
-      "path": "MODULE-1_WEEK-1/visualizing_heart_failure.ipynb",
-      "size": 6657,
+      "name": "data_exploration.ipynb",
+      "path": "MODULE-1_WEEK-2/data_exploration.ipynb",
+      "size": 4030,
       "type": "notebook",
       "writable": true
     }
@@ -21,8 +21,8 @@
   "hash_algorithm": null,
   "last_modified": "2024-06-04T23:56:35.364484Z",
   "mimetype": null,
-  "name": "MODULE-1_WEEK-1",
-  "path": "MODULE-1_WEEK-1",
+  "name": "MODULE-1_WEEK-2",
+  "path": "MODULE-1_WEEK-2",
   "size": null,
   "type": "directory",
   "writable": true
