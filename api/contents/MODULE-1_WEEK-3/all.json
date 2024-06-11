@@ -8,9 +8,9 @@
       "hash_algorithm": null,
       "last_modified": "2024-06-11T22:50:43.295984Z",
       "mimetype": null,
-      "name": "data_exploration.ipynb",
-      "path": "MODULE-1_WEEK-2/data_exploration.ipynb",
-      "size": 4030,
+      "name": "data_wrangling.ipynb",
+      "path": "MODULE-1_WEEK-3/data_wrangling.ipynb",
+      "size": 10628,
       "type": "notebook",
       "writable": true
     }
@@ -21,8 +21,8 @@
   "hash_algorithm": null,
   "last_modified": "2024-06-11T22:51:21.143777Z",
   "mimetype": null,
-  "name": "MODULE-1_WEEK-2",
-  "path": "MODULE-1_WEEK-2",
+  "name": "MODULE-1_WEEK-3",
+  "path": "MODULE-1_WEEK-3",
   "size": null,
   "type": "directory",
   "writable": true
