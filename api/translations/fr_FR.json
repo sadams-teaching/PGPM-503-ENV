@@ -4833,6 +4833,9 @@
       "settings\u0004Editor Configuration": [
         "Configuration de l'\u00e9diteur"
       ],
+      "settings\u0004Editor resize delay": [
+        "D\u00e9lai de redimensionnement de l'\u00e9diteur"
+      ],
       "settings\u0004Enable 1st headings numbering": [
         "Activer la num\u00e9rotation des titres de niveau 1"
       ],
@@ -5007,6 +5010,9 @@
       "settings\u0004Length of save interval in seconds": [
         "Dur\u00e9e entre deux sauvegardes en secondes"
       ],
+      "settings\u0004Limit inline completion lines": [
+        "Limiter les lignes de compl\u00e9tion en ligne"
+      ],
       "settings\u0004Line Height": [
         "Hauteur de ligne"
       ],
@@ -5118,6 +5124,12 @@
       "settings\u0004Number of cells to render outside de the viewport": [
         "Nombre de cellules \u00e0 afficher en dehors de la fen\u00eatre d'affichage"
       ],
+      "settings\u0004Number of lines of inline completion to show before collapsing. Setting zero disables the limit.": [
+        "Nombre de lignes de compl\u00e9tion en ligne \u00e0 afficher avant de les r\u00e9duire. Z\u00e9ro d\u00e9sactive la limite."
+      ],
+      "settings\u0004Number of lines to reserve for the ghost text with inline completion suggestion.": [
+        "Nombre de lignes \u00e0 r\u00e9server pour le texte fant\u00f4me de la suggestion de compl\u00e9tion en ligne."
+      ],
       "settings\u0004Number of recently opened/closed files and directories to remember.": [
         "Nombre de fichiers et r\u00e9pertoires r\u00e9cemment ouverts/ferm\u00e9s \u00e0 m\u00e9moriser."
       ],
@@ -5171,6 +5183,12 @@
       ],
       "settings\u0004Rendering Layout": [
         "Mise en page du rendu"
+      ],
+      "settings\u0004Reserve lines for inline completion": [
+        "Lignes de r\u00e9serve pour la compl\u00e9tion en ligne"
+      ],
+      "settings\u0004Reserve space for the longest candidate": [
+        "R\u00e9server l'espace pour la suggestion la plus longue"
       ],
       "settings\u0004Scheme allowed by the HTML sanitizer.": [
         "Sch\u00e9ma autoris\u00e9 lors de l'assainissement HTML."
@@ -5441,6 +5459,12 @@
       ],
       "settings\u0004Variables to filter out in the tree and table viewers": [
         "Variables \u00e0 filtrer dans l'arborescence et les tableaux"
+      ],
+      "settings\u0004When an inline completion gets cancelled the editor may change its size rapidly. When typing in the editor, the completions may get dismissed frequently causing a noticeable jitter of the editor height. Adding a delay prevents the jitter on typing. The value should be in milliseconds.": [
+        "Lorsqu'une compl\u00e9tion en ligne est annul\u00e9e, l'\u00e9diteur peut modifier sa taille rapidement. Lorsque vous tapez dans l'\u00e9diteur, les compl\u00e9tions peuvent \u00eatre rejet\u00e9es fr\u00e9quemment, causant des variations notables de la hauteur de l'\u00e9diteur. Ajouter un d\u00e9lai en millisecondes emp\u00eache le jitter lors de la frappe."
+      ],
+      "settings\u0004When multiple completions are returned, reserve blank space for up to as many lines as in the longest completion candidate to avoid resizing editor when cycling between the suggestions.": [
+        "Lorsque plusieurs compl\u00e9tions sont retourn\u00e9es, r\u00e9server l'espace libre selon le candidat de compl\u00e9tion le plus long pour \u00e9viter de redimensionner l'\u00e9diteur lorsque vous parcourez les suggestions."
       ],
       "settings\u0004When multiple servers match specific document/language, the server with the highest rank will be used": [
         "Lorsque plusieurs serveurs correspondent \u00e0 un document/langage sp\u00e9cifique, le serveur avec la priorit\u00e9 la plus \u00e9lev\u00e9e sera utilis\u00e9"
