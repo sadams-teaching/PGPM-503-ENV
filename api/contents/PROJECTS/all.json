@@ -2,11 +2,25 @@
   "content": [
     {
       "content": null,
-      "created": "2024-07-31T23:42:44.258406Z",
+      "created": "2024-08-02T18:58:10.714785Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2024-07-31T23:42:05.542446Z",
+      "last_modified": "2024-08-02T18:57:31.494485Z",
+      "mimetype": null,
+      "name": "group_1.ipynb",
+      "path": "PROJECTS/group_1.ipynb",
+      "size": 2954,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-08-02T18:58:10.714785Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-08-02T18:57:31.494485Z",
       "mimetype": null,
       "name": "group_2.ipynb",
       "path": "PROJECTS/group_2.ipynb",
@@ -15,11 +29,11 @@
       "writable": true
     }
   ],
-  "created": "2024-07-31T23:42:44.258406Z",
+  "created": "2024-08-02T18:58:10.714785Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2024-07-31T23:42:44.258406Z",
+  "last_modified": "2024-08-02T18:58:10.714785Z",
   "mimetype": null,
   "name": "PROJECTS",
   "path": "PROJECTS",
